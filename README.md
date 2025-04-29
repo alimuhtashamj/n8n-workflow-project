@@ -1,4 +1,4 @@
-# 🤖 n8n Workflow: AI Agent with Tools, Memory, and Vector Store
+# n8n Workflow: AI Agent with Tools, Memory, and Vector Store
 
 This repository contains a generalized **n8n workflow** designed to build a smart, context-aware chatbot system using large language models (LLMs), memory, vector search, and optional tools like Wikipedia and a calculator.
 
